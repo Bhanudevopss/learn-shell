@@ -14,3 +14,8 @@ Shell Scripting Topics.
 9. Quotes
 10. Redirectors
 ```
+
+V - Variable
+F - Functions
+L - Loops
+C - Conditions
