@@ -1,4 +1,4 @@
-DATE=2023-02-17
+DATE=2023-02-18
 echo "Hello, Good Morning, Today Date is ${DATE}"
 
 # Command Substitution
