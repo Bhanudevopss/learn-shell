@@ -1,4 +1,4 @@
-number=$1
+1=$1
 string=$2
 
 if [ "${1}" -eq 5 ]; then # then can go in next line as well, also semi colan is also fine
